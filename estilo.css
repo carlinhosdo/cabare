@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://img.elo7.com.br/product/600x380/2B4A181/convite-animado-video-tema-cabare-cabare.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.formulario {
+    background-color: white;
+    width: 250px;
+    margin: auto;
+    box-shadow: 1px 1px 5px black;
+    padding: 20px;
+}
