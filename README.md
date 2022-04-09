@@ -1,2 +1,2 @@
 # cabare
-carlinhosdo/cabare
+ https://carlinhosdo.github.io/cabare/
